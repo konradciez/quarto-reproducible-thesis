@@ -52,7 +52,7 @@ The template requires `quarto` to be executed in an environment with the followi
    * on macOS using Homebrew: `brew install librsvg`
    * on Windows using Chocolatey: `choco install rsvg-convert`
 
-The above installation steps are tested on CI with [this workflow](https://github.com/habemus-python/quarto-reproducible-thesis/blob/main/.github/workflows/test.yml).
+The above installation steps are CI-tested on Linux, macOS and Windows with [this workflow](https://github.com/habemus-python/quarto-reproducible-thesis/blob/main/.github/workflows/test.yml).
 
 ## <span class="emoji">🛠️</span> Notes for contributors
 
