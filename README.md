@@ -10,8 +10,9 @@ This template aims to (by design!):
 - <span class="emoji">🔗</span> orchestrate clickable hyperlinks (incl. to the bibliography and from there to the citing locations),
 - <span class="emoji">💻</span> offer code listings with syntax-highlighting,
 - <span class="emoji">🌍</span> handle multi-lingual content (Polish letters, etc),
-- <span class="emoji">📑</span> exemplify a robust bibliography setup,
-- <span class="emoji">📐</span> provide reasonable defaults for line spacing, font sizes, margins, etc.
+- <span class="emoji">📑</span> exemplify a robust BibLaTeX-based bibliography setup,
+- <span class="emoji">📐</span> provide reasonable defaults for line spacing, font sizes, margins, etc.,
+- <span class="emoji">🐧🍏🪟</span> reply on tools available on all popular systems.
 
 ## <span class="emoji">🚀</span> How to use it
 
@@ -45,7 +46,7 @@ The template requires `quarto` to be executed in an environment with the followi
 - [Biber](https://en.wikipedia.org/wiki/Biber_(LaTeX)):
    * 🐧 on Debian/Ubuntu using APT: `apt-get install biber`
    * 🍏 on macOS using Homebrew: `brew install biber`
-- [Biblatex](https://biblatex.org/):
+- [BibLaTeX](https://biblatex.org/):
    * 🐧 on Debian/Ubuntu using APT: `apt-get install texlive-bibtex-extra`  
 - [rsvg-convert](https://en.wikipedia.org/wiki/Librsvg):
    * 🐧 on Debian/Ubuntu using APT: `apt-get install librsvg2-bin`
