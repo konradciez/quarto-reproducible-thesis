@@ -338,3 +338,14 @@ wb
 Cfaerber
 Yug
 Inkscape
+PEP8
+Standardized
+args
+docstring
+emphasizes
+eval
+initializing
+isort
+nbQA
+pyupgrade
+standardized
