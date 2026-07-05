@@ -8,7 +8,8 @@ DFo
 FBę
 FMa
 GAd
-IHe
+Ignacy
+Hejmej
 Jan
 Parszutowicz
 KCi
@@ -382,6 +383,17 @@ wb
 Cfaerber
 Yug
 Inkscape
+2f
+2j
+3f
+IPython
+UnitRegistry
+analized
+dist
+md
+num
+si
+vel
 bibtexparser
 BibTeX
 Crossref
