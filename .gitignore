@@ -4,6 +4,8 @@
 **/thesis.pdf
 logo_AGH.pdf
 **/refs.bib
+**/sankey*.svg
+**/radar*.svg
 /.venv/
 Bitmap_VS_SVG.svg
 pmx-*.pdf
