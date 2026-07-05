@@ -22,7 +22,8 @@ MWą
 Natalia
 Kowalczyk
 PAd
-PBu
+Przemysław
+Bukała
 PWa
 ROs
 RWi
@@ -366,7 +367,17 @@ własnym
 własną
 zastąpić
 zawartość
+backend
+dist
+gz
+md
+optimised
+testpypi
 utf8
+pyproject
+setuptools
+toml
+whl
 wb
 Cfaerber
 Yug
